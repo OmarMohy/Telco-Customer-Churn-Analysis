@@ -54,4 +54,21 @@ To explore this type of models and learn more about the subject.
                                                 
 
 ## Insights
+The monthly charges take a moderate range of values from 18 to 120 dollars. It seems that most charges range from 18 to 25 dollars with lower peaks at 50, 70 and 90 dollars.
+From the Tenure distribution it seems we have two peaks that indicates we have loyal customers that have remained with company 6 years and newly joined customers with stay of 0-1 month only.                                            
 
+As from scatter distribution of Monthly charge Vs. Tenures and intutively, it appears that loyal customers are with highest monthly charges, and as customer stays for longer period a more trust is bulit therefore higher charges.
+
+Interestingly from the heatmap of Monthly charge Vs. Tenures, it appears that more new customers have higher monthly charges (around 70 dollars) than customers that stayed in company for 2.5-4 years.
+
+Customers whose monthly charges are high are more likely to leave the company. We also can see most of churned customers their monthly charges were high in the range of 80-100 dollars. Therefore, we can infer than customers churn due to high monthly charges.
+
+Customers whose contracts are monthly basis are very likely to leave the company, compared to customers with one year contract and very much less likely for two year contract.
+We can see that Senior Citizens monthly charges are much higher han younger citizens. We can also see for senior who churned the range of prices were in 80-100 dollars most of the time than those who didn't churn, had more variability in monthly charges.      
+
+- For no Churn:
+* There are more customers using streaming movies services in a month-month contract than one and two years contract due to mostly no internet service.           
+- For Churned Customers:
+* For monthly contract it most of customers are streaming movies also. But interstingly for longer duration contracts such as one and two years most of them were streaming movies and they churned.                      
+
+So we can infer than either streaming movies is expensive for longer contracts which should be unlikely or the streaming service itself is not likeable to the customers and has a factor even if it is small for them to churn.
