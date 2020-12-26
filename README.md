@@ -14,7 +14,7 @@ This data is taken from kaggle https://www.kaggle.com/blastchar/telco-customer-c
 There are 7043 customers in the dataset with 20 features. With 3 numeric features (`Seniorcitizen and Monthlycharges` are **continous**, and `Tenure` is **discrete**), 1 **ordinal** feature (`Contract`) and the rest are **nominal** features.
 
 ## Context
-"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
+The goal is to analyze all relevant customer data and predict behavior to retain customers.
 
 ## Features
 - **`customerID`**
